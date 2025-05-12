@@ -2,7 +2,7 @@ const footerHTML = `
   <footer class="section-footer">
     <div class="f-design">
       <div class="f-design-txt">
-        <p>Design and Code by SIBTAIN RAZA  </p>
+        <p>Made by SIBTAIN RAZA 💕 </p>
       </div>
     </div>
   </footer>`;

@@ -19,9 +19,7 @@ export const removeProdFromCart = (id) => {
     showToast("delete", id);
   }
 
-  // -----------------------------------------------------
   // calculating the card total in our cartProducts page
-  // --------------------------------------------------------
   updateCartProductTotal();
 
   updateCartValue(cartProducts);

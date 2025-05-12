@@ -14,4 +14,3 @@ export const fetchQuantityFromCartLS = (id, price) => {
   return { quantity, price };
 };
 
-//todo Don't Forget To LIKE SHARE & SUBSCRIBE TO THAPA TECHNCIAL YOUTUBE CHANNEL 👉 https://www.youtube.com/thapatechnical
